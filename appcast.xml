@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channel>
+  <title>Your App Updates</title>
+  <link>https://yourserver.com/</link>
+  <description>Latest updates for YourApp</description>
+  <language>en-us</language>
+  <item>
+    <title>Version 4.9.0</title>
+    <description>
+      <![CDATA[
+      - Added new features.
+      - Fixed bugs.
+      - First auto update api
+      ]]>
+    </description>
+    <pubDate>Tue, 17 Oct 2024 00:00:00 GMT</pubDate>
+    <enclosure url="https://yourserver.com/yourapp-v1.2.3.zip" sparkle:version="4.9.0" sparkle:os="windows" length="10240000" type="application/octet-stream" />
+  </item>
+</channel>
